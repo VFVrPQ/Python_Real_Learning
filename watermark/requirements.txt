@@ -1,0 +1,4 @@
+exifread
+PIL
+requests
+json
