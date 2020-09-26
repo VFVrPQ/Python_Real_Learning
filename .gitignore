@@ -1,8 +1,14 @@
-# my
+# my folder
 temp/
-.config
+paper/
+.vscode/
+
+# my file
 watermark/fig/watermark/*.jpeg
 .DS_Store
+.config
+look.txt
+test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
