@@ -1,4 +1,3 @@
 exifread
-PIL
+pillow
 requests
-json
